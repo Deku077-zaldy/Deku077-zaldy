@@ -31,23 +31,7 @@
     </a>
 </div>
 
-## 📈 My GitHub Stats
 
-<div align="center">
-    <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Dicky077-zaldy&show_icons=true&theme=react" alt="GitHub Stats" />
-    <br/>
-    
-    <!-- GitHub Streak Stats Card -->
-    <img src="https://streak-stats.demolab.com/?user=Dicky077-zaldy&theme=react" alt="GitHub Streak" />
-    <br/>
-    
-    <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dicky077-zaldy&layout=compact&theme=react" alt="Top Languages" />
-</div>
-
-<br/>
-<hr/>
 
 <hr/>
 <h3 align="center">
