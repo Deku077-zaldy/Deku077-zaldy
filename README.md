@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Deku077-zaldy)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
 
 
 ## Hi, I,am Dicky Zaldy 👋
