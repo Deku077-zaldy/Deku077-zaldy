@@ -7,11 +7,11 @@
 
 
 <div align="center">
-    <h3>👨‍💻 A software engineer driven by a relentless passion for learning and growth.</h3>
-    <h3>🎓 Studied Computer Science at the Institut Teknologi dan Bisnis STIKOM BALI.</h3>
-    <h3>💭 Currently learning about cloud computing and DevOps.</h3>
-</div>
-
+    <h2>I'm Dicky Zaldy</h2>
+    <p>👨‍💻 A software engineer driven by a relentless passion for learning and growth.</p>
+    <p>🎓 Studied Computer Science at the Institut Teknologi dan Bisnis STIKOM BALI.</p>
+    <p>💭 Currently learning about cloud computing and DevOps.</p>
+    
     <div style="margin-top: 10px;">
         <a href="mailto:dickyzaldyharyanto@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="height: 40px;" />
@@ -24,3 +24,4 @@
         </a>
     </div>
 </div>
+
