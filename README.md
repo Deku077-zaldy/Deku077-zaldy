@@ -32,14 +32,16 @@
 </div>
 
 <hr style="width:50%; border:1px solid #ddd; margin-top: 20px; margin-bottom: 20px;" />
+<h2 align="center" style="font-size: 26px; color: #00FF00; font-weight: bold; text-shadow: 1px 1px 2px #333333;">⚡ Stats ⚡</h2>
 
-<h2 align="center" style="font-size: 26px; color: #FF00FF; font-weight: bold; text-shadow: 1px 1px 2px #333333;">⚡ Stats ⚡</h2>
-
-<div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px; width: 80%; max-width: 500px; margin: auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deku077-zaldy&show_icons=true&theme=transparent&bg_color=333333&text_color=ffffff&title_color=00FF00&icon_color=00FF00&locale=en" alt="GitHub Stats" width="90%" style="margin-bottom: 10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deku077-zaldy&theme=transparent&bg_color=333333&text_color=ffffff&fire=00FF00&ring=00FF00" alt="Streak Stats" width="90%" style="margin-bottom: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deku077-zaldy&show_icons=true&theme=transparent&bg_color=333333&text_color=ffffff&title_color=00FF00&icon_color=00FF00&locale=en&layout=compact" alt="Top Languages" width="90%" />
+<div align="center">
+    <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px; width: 70%; max-width: 500px; margin: auto;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Deku077-zaldy&show_icons=true&theme=transparent&bg_color=333333&text_color=ffffff&title_color=00FF00&icon_color=00FF00&locale=en" alt="GitHub Stats" width="90%" style="margin-bottom: 10px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deku077-zaldy&theme=transparent&bg_color=333333&text_color=ffffff&fire=00FF00&ring=00FF00" alt="Streak Stats" width="90%" style="margin-bottom: 10px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deku077-zaldy&show_icons=true&theme=transparent&bg_color=333333&text_color=ffffff&title_color=00FF00&icon_color=00FF00&locale=en&layout=compact" alt="Top Languages" width="90%" />
+    </div>
 </div>
+
 
 
 <hr/>
