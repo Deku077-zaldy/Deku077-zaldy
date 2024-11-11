@@ -21,9 +21,10 @@
     </a>
 </div>
 
+<hr style="width:50%; border:1px solid #ddd;" />
+
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <br/>
-<hr style="width:50%; border:1px solid #ddd;" />
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,sql,golang,java" /><br>
