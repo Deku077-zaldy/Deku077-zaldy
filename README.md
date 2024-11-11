@@ -31,3 +31,16 @@
         <img src="https://skillicons.dev/icons?i=bootstrap,mysql,flask,html,css,vscode,figma,git" />
     </a>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+    <h2>🐍 My Contributions 🐍</h2>
+    <br>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dicky077-zaldy/Dicky077-zaldy/output/github-contribution-grid-snake.svg" />
+    <br><br><br>
+</div>
+<hr>
+
+<br/><br/><br/>
