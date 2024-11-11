@@ -6,9 +6,8 @@
 </h1>
 
 
-<br>
 <div align="center">
-👨‍💻 A software engineer driven by a relentless passion for learning and growth.
-🎓 Studied Computer Scienc at the Institut Teknologi dan Bisnis STIKOM BALI.
-💭 Currently learning about cloud computing and DevOps.
-</br>
+    <h4>👨‍💻 A software engineer driven by a relentless passion for learning and growth.</h4>
+    <h4>🎓 Studied Computer Science at the Institut Teknologi dan Bisnis STIKOM BALI.</h4>
+    <h4>💭 Currently learning about cloud computing and DevOps.</h4>
+</div>
