@@ -5,8 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dicky+Zaldy;" />
 </h1>
 
-
-<h1 align="center">I'm Dicky Zaldy</h1>
 <p align="center">👨‍💻 A software engineer driven by a relentless passion for learning and growth.</p>
 <p align="center">🎓 Studied Computer Science at the Institut Teknologi dan Bisnis STIKOM BALI.</p>
 <p align="center">💭 Currently learning about cloud computing and DevOps.</p>
