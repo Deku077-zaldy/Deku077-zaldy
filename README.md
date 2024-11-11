@@ -20,3 +20,12 @@
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" style="height: 40px;" />
     </a>
 </div>
+
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<br/>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,sql,golang,java" /><br>
+        <img src="https://skillicons.dev/icons?i=bootstrap,mysql,flask,html,css,vscode,figma,git" />
+    </a>
+</div>
