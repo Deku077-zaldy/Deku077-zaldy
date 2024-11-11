@@ -33,7 +33,7 @@
 
 <hr style="width:50%; border:1px solid #ddd; margin-top: 20px; margin-bottom: 20px;" />
 
-<h3 align="center" style="font-size: 26px; color: #FF00FF; font-weight: bold; text-shadow: 1px 1px 2px #333333;">⚡ Stats ⚡</h3>
+<h2 align="center" style="font-size: 26px; color: #FF00FF; font-weight: bold; text-shadow: 1px 1px 2px #333333;">⚡ Stats ⚡</h2>
 
 <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px; width: 80%; max-width: 500px; margin: auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=Deku077-zaldy&show_icons=true&theme=transparent&bg_color=333333&text_color=ffffff&title_color=00FF00&icon_color=00FF00&locale=en" alt="GitHub Stats" width="90%" style="margin-bottom: 10px;" />
