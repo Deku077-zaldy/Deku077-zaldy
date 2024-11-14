@@ -37,7 +37,7 @@
 <div align="center">
     <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px; width: 70%; max-width: 500px; margin: auto;">
         <img src="https://github-readme-stats.vercel.app/api?username=Deku077-zaldy&show_icons=true&theme=transparent&bg_color=333333&text_color=ffffff&title_color=00FF00&icon_color=00FF00&locale=en" alt="GitHub Stats" width="90%" style="margin-bottom: 10px;" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deku077-zaldy&theme=transparent&bg_color=333333&text_color=ffffff&fire=00FF00&ring=00FF00" alt="Streak Stats" width="90%" style="margin-bottom: 10px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deku077-zaldy&theme=transparent&bg_color=333333&text_color=ffffff&fire=FF00FF&ring=FF00FF" alt="Streak Stats" width="50%" style="margin-bottom: 10px;" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deku077-zaldy&show_icons=true&theme=transparent&bg_color=333333&text_color=ffffff&title_color=00FF00&icon_color=00FF00&locale=en&layout=compact" alt="Top Languages" width="90%" />
     </div>
 </div>
